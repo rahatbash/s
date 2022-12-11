@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,Iran International Live
+https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
+#EXTINF:0, Manoto
+https://edge-cdn1.manoto.click/live_2500.m3u8
+#EXTINF:29, VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:0,DW 1
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0, Euronews
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0, FRANCE 24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
