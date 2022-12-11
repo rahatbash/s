@@ -1,11 +1,13 @@
 #EXTM3U
 
-#EXTINF:36,Iran International Live
+#EXTINF:36,Iran International
 https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
+
 #EXTINF:20, Manoto
 https://edge-cdn1.manoto.click/live_2500.m3u8
 
-#EXTINF:0, VOA Persian
+
+#EXTINF:0,VOA 
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 
 #EXTINF:0,DW 1
