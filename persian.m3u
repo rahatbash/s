@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:0,CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+
+#EXTINF:0,Sky News UK
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+
+#EXTINF:36,Iran International
+https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:20, Manoto 
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+
+#EXTINF:0,Tapesh
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:0,VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+
+#EXTINF:0, PMC Persian Music Channel
+https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:0,Parnian
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:0,AFN
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+
+
+
+#EXTINF:0, Persiana 
+http://51.210.199.22/hls/stream.m3u8
+
+#EXTINF:0,DW 1
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:0, Euronews
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
