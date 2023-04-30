@@ -4,8 +4,6 @@
 #EXTINF:0,CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 
-#EXTINF:0,Sky News UK
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:36,Iran International
 https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
 
@@ -44,7 +42,7 @@ http://cdn.adultiptv.net/gangbang.m3u8
 #EXTINF:62, Fetish
 #EXTVLCOPT:network-caching=1000
 http://cdn.adultiptv.net/fetish.m3u8
-
+#EXTINF:62, Fetish2
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:0, Teen
 #EXTVLCOPT:network-caching=1000
