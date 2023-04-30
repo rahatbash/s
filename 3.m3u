@@ -39,11 +39,12 @@ http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:0, Gangbang
 #EXTVLCOPT:network-caching=1000
 http://cdn.adultiptv.net/gangbang.m3u8
+
 #EXTINF:62, Fetish
 #EXTVLCOPT:network-caching=1000
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:62, Fetish2
-https://www.ast.tv/stream/2/ultra.m3u8
+
+
 #EXTINF:0, Teen
 #EXTVLCOPT:network-caching=1000
 http://cdn.adultiptv.net/teen.m3u8
