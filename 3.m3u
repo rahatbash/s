@@ -13,8 +13,8 @@ https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 
 #EXTINF:0,VOA 
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:0,VOA 2
-https://voa-ingest.akamaized.net/hls/live/2033876-b/tvmc07/playlist.m3u8
+#EXTINF:0,Tapesh
+https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8
 
 #EXTINF:0,DW 1
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
